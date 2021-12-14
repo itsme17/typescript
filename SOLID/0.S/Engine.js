@@ -12,10 +12,10 @@ var Engine = /** @class */ (function () {
         enumerable: false,
         configurable: true
     });
-    Engine.prototype.engineTurnOn = function () {
+    Engine.prototype.turnOn = function () {
         this._engineStatus = true;
     };
-    Engine.prototype.engineTurnOff = function () {
+    Engine.prototype.turnOff = function () {
         this._engineStatus = false;
     };
     return Engine;

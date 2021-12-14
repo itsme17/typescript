@@ -1,21 +1,21 @@
 export class MusicPlayer{
     private _musicLevel:number = 0;
-    private _defaultMusicLevel:number = 50;
+    private _oldMusicLevel:number = 50;
 
-    get musicLevel():number{
+    get level():number{
         return this._musicLevel;
     }
 
-    set musicLevel(value:number){
+    set level(value:number){
         this._musicLevel = value;
-        this._defaultMusicLevel = value;
+        this._oldMusicLevel = value;
     }
 
-    turnMusicOn(){
-        this._musicLevel = this._defaultMusicLevel;
+    turnOn(){
+        this._musicLevel = this._oldMusicLevel;
     }
 
-    turnMusicOff(){
+    turnOff(){
         this._musicLevel = 0;
     }
 }

@@ -5,11 +5,11 @@ export class Engine {
         return this._engineStatus;
     }
 
-    engineTurnOn() {
+    turnOn() {
         this._engineStatus = true;
     }
 
-    engineTurnOff() {
+    turnOff() {
         this._engineStatus = false;
     }
 
