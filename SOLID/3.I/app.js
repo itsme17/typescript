@@ -38,7 +38,18 @@ var Admin = /** @class */ (function () {
     };
     return Admin;
 }());
-// class GoogleBot implements UserAuth {}
+var GoogleBot = /** @class */ (function () {
+    function GoogleBot() {
+    }
+    GoogleBot.prototype.checkGoogleLogin = function (token) {
+        // return "this will not work";
+        return (token === this._googleToken);
+    };
+    GoogleBot.prototype.setGoogleToken = function (token) {
+        this._googleToken = token;
+    };
+    return GoogleBot;
+}());
 var passwordElement = document.querySelector('#password');
 var typePasswordElement = document.querySelector('#typePassword');
 var typeGoogleElement = document.querySelector('#typeGoogle');

@@ -1,4 +1,4 @@
-15664
+15666
 89C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\path-type\package.json132838630572768898 0
 87C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\lmdb-store\benchmark132838630515521502 1
 88C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\signal-exit\README.md121436361000000000 0
@@ -12,7 +12,7 @@
 90C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\lodash\fp\forInRight.js121436361000000000 0
 102C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\@parcel\utils\src\parseCSSImport.js121436361000000000 0
 93C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\caniuse-lite\dist\unpacker132838630537000099 1
-58C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\dist132840560874149095 1
+58C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\dist132841175842907454 1
 107C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\core-js\modules\es.string.replace-all.js121436361000000000 0
 99C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\es-abstract\helpers\modBigInt.js121436361000000000 0
 78C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\fs.realpath132838630576374018 1
@@ -116,7 +116,7 @@
 96C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\@parcel\runtime-react-refresh132838630564739003 1
 95C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\postcss-modules\node_modules132838630558992017 1
 90C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\is-number-object\.nycrc121436361000000000 0
-63C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\SOLID\3.I132840574092014688 1
+63C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\SOLID\3.I132841176185948595 1
 80C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\open\index.js121436361000000000 0
 77C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\picocolors132838630572270229 1
 114C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\postcss-minify-font-values\dist\lib\keywords.js121436361000000000 0
@@ -185,7 +185,7 @@
 79C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\uniq\uniq.js130455261730000000 0
 81C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\lodash.memoize132838630574209959 1
 97C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\svgo\plugins\preset-default.js121436361000000000 0
-70C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\SOLID\3.I\app.js132840574117251989 0
+70C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\SOLID\3.I\app.js132841176048571585 0
 77C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\ansi-regex132838630563402571 1
 122C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\module.c121436361000000000 0
 82C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\lodash\isNaN.js121436361000000000 0
@@ -200,9 +200,9 @@
 98C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\which-typed-array\.eslintignore121436361000000000 0
 86C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\globby\package.json132838630568079233 0
 93C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\querystring\.Readme.md.un~130069927080000000 0
-70C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\SOLID\3.I\old.js132840559686286772 0
+70C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\SOLID\3.I\old.js132841153633759089 0
 114C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\@parcel\transformer-image\src\validateConfig.js121436361000000000 0
-70C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\SOLID\3.I\app.ts132840574092004713 0
+70C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\SOLID\3.I\app.ts132841176185938615 0
 115C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\jsdom\lib\jsdom\living\events\CloseEvent-impl.js121436361000000000 0
 110C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\es-abstract\2020\BigInt\signedRightShift.js121436361000000000 0
 120C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\@parcel\transformer-postcss\lib\PostCSSTransformer.js121436361000000000 0
@@ -220,7 +220,7 @@
 89C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\terminal-link\index.js121436361000000000 0
 78C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\ansi-styles132838630577575081 1
 74C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\ieee754132838630575419396 1
-74C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\SOLID\3.I\index.html132838616775223315 0
+74C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\SOLID\3.I\index.html132841172897569541 0
 88C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\msgpackr\benchmark.md121436361000000000 0
 76C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\uncss\src132838630491756917 1
 105C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\core-js\internals\collection-strong.js121436361000000000 0
@@ -9992,6 +9992,7 @@
 103C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\htmlnano\docs\docs\060-contribute.md121436361000000000 0
 89C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\html-tags\package.json132838630575339605 0
 86C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\html-tags\readme.md131421856570000000 0
+76C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\dist\index.e462c6c0.js132841175842835238 0
 92C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\html-encoding-sniffer\lib132838630493188242 1
 135C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json121436361000000000 0
 89C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\node_modules\hmac-drbg\package.json132838630573799630 0
@@ -15661,5 +15662,6 @@
 76C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\dist\index.52efe59f.js132838743847929036 0
 76C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\dist\index.a1a683e4.js132840554588795821 0
 80C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\dist\index.a1a683e4.js.map132840554588815784 0
+80C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\dist\index.e462c6c0.js.map132841175842885156 0
 80C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\dist\index.f70e8ddc.js.map132840312548016193 0
-69C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\dist\index.html132840560873887338 0
+69C:\Users\Carrefour\Desktop\BECODE\Projects\typescript\dist\index.html132841172905938377 0

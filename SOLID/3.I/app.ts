@@ -1,17 +1,18 @@
-interface UserAuth {
+interface passwordLogin{
     checkPassword(password: string) : boolean;
     resetPassword();
+}
+interface googleLogin {
     setGoogleToken(token : string);
     checkGoogleLogin(token : string) : boolean;
+}
+
+interface facebookLogin{
     setFacebookToken(token : string);
     getFacebookLogin(token : string) : boolean;
 }
-interface adminAuth {
-    checkPassword(password: string) : boolean;
-    resetPassword();
-}
 
-class User implements UserAuth {
+class User implements passwordLogin, googleLogin,facebookLogin{
     private _password : string = 'user';
     private _facebookToken : string;
     private _googleToken : string;
@@ -45,7 +46,7 @@ class User implements UserAuth {
 }
 
 //admin cannot use google or facebook token
-class Admin implements adminAuth {
+class Admin implements passwordLogin {
     private _password : string = 'admin';
 
     checkPassword(password: string): boolean {
@@ -57,7 +58,17 @@ class Admin implements adminAuth {
     }
 }
 
-// class GoogleBot implements UserAuth {}
+ class GoogleBot implements googleLogin {
+     private _googleToken : string;
+    checkGoogleLogin(token) {
+         // return "this will not work";
+         return (token === this._googleToken);
+     }
+
+     setGoogleToken(token : string) {
+         this._googleToken = token;
+     }
+ }
 
 const passwordElement = <HTMLInputElement>document.querySelector('#password');
 const typePasswordElement = <HTMLInputElement>document.querySelector('#typePassword');
